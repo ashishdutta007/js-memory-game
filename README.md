@@ -1,6 +1,6 @@
 # Memory Game
 
-- Initializ game setup
+- Initialize game setup
 
   - 100 * 100 px images * 2.
   - Create image array.
