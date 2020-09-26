@@ -2,10 +2,10 @@
 
 - Initializ game setup
 
-  - 100 _ 100 px images _ 2.
+  - 100 * 100 px images * 2.
   - Create image array.
-  - Generate Game Grid of Images.
-  - Add listners in images for flips.
+  - Generate Grid of images.
+  - Add listeners in images for flip events.
   - Set game level control variables.
 
 - Event handler for flip
