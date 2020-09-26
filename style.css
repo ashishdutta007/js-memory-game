@@ -1,3 +1,11 @@
-h1, h2 {
-  font-family: Lato;
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  /* height: 300px; */
+  /* width: 400px; */
+}
+.game-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
